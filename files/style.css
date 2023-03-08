@@ -675,6 +675,11 @@ footer .copyright {
         padding: 10px 5px;
     }
     /* Contact Us */
+    h2 {
+        font-size: 20px;
+        line-height: 54px;
+        color: rgb(34, 34, 34);
+    }
     #contact-details {
         display: flex;
         flex-direction: column;
@@ -688,6 +693,11 @@ footer .copyright {
     }
     #form-details form {
         width: 100%;
+    }
+    #contact-details .details h2 {
+        font-size: 18px;
+        line-height: 15px;
+        padding: 0px 0;
     }
 }
 
@@ -829,8 +839,8 @@ footer .copyright {
 
 #form-details {
     border: 1px solid #e1e1e1;
-    margin: 45px 20% 20px 5%;
-    padding: 50px 40px;
+    margin: 45px 2%;
+    padding: 50px 10px;
 }
 #form-details form {
     width: 65%;
