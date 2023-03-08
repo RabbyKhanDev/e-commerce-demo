@@ -704,7 +704,7 @@ footer .copyright {
     height: auto;
 }
 #blog {
-    padding: 150px 150px 0 150px;
+    margin: 100px auto;
 }
 #blog .blog-box {
     display: flex;
