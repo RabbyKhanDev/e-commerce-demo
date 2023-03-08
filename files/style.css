@@ -602,6 +602,9 @@ footer .copyright {
     #header {
         padding: 10px 10px;
     }
+    .pro {
+        margin: 10px auto;
+    }
     #feature .fe-box {
         width: 155px;
         margin: 0 0 10px 0;
